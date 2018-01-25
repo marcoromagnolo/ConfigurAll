@@ -1,1 +1,2 @@
-# j7Config
+# ConfigurAll
+ConfigurAll is an utility to read and apply configurations
